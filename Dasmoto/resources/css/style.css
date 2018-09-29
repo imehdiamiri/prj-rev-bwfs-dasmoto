@@ -1,0 +1,35 @@
+h1,
+h2,
+.blue
+ {
+  font-family: Helvetica;
+  font-weight:  bold;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: khaki;
+  background-image: url("../img/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+h2.head1 {
+  background-color: mediumspringgreen;
+}
+
+h2.head2 {
+  background-color: lightcoral;
+}
+
+h2.head3 {
+  background-color: skyblue;
+}
+
+.blue {
+  color: blue;
+}
